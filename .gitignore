@@ -1,0 +1,15 @@
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Hadoop/Pig temporary and log files
+*.log
+pig_*.log
+
+# Java compiled build artifacts (keep source .java and the runnable .jar only)
+**/build/
+**/bin/
+*.class
