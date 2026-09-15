@@ -641,7 +641,7 @@ NLP                     275000.0
 
 The maximum recorded salary reaches **$800,000** for both AI Architect and Other / Unclassified role families.
 
-### 3. Top 10 Highest-Paid Individual Job Records
+### Top 10 Highest-Paid Individual Job Records
 
 This analysis identifies the **10 individual job records with the highest recorded salaries** in the dataset.
 
